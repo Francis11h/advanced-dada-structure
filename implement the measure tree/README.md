@@ -1,4 +1,5 @@
-# CSC541-Project2
+implement the measure tree
+==
 course project for CSC 541 advance data structure
 
 Implement the measure tree, as described in the book chapter 4.3.
