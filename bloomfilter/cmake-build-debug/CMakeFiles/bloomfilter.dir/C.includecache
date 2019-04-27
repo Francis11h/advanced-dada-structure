@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hanzirun/Desktop/bloomfilter/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+
